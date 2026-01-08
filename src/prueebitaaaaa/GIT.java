@@ -1,7 +1,7 @@
 /*
 	Este programa filtra el número
 	almacenado en la variable N y
-	luego muestra su tabla de multiplicar.
+	luego muestra su tabla de multiplicar......................
 
 	autor: Alejandro
 	date: 24102025
